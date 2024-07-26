@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2136FBA7-C47F-4A0F-91E8-75AC0B1EA5BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reminder", "src\Reminder\Reminder.csproj", "{A9195C87-80F6-4720-A44B-44DFFDE50A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9195C87-80F6-4720-A44B-44DFFDE50A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9195C87-80F6-4720-A44B-44DFFDE50A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9195C87-80F6-4720-A44B-44DFFDE50A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9195C87-80F6-4720-A44B-44DFFDE50A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9195C87-80F6-4720-A44B-44DFFDE50A1D} = {2136FBA7-C47F-4A0F-91E8-75AC0B1EA5BD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28942AE7-4C09-4827-93D0-DA3CA026632B}
+	EndGlobalSection
+EndGlobal
